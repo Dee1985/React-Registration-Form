@@ -1,3 +1,3 @@
 Registration form saves to local storage
 
-Live site: coming soon!
+Live site: https://aydy-react-form.netlify.com
